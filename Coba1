@@ -1,0 +1,5 @@
+<script>
+function kutun() {
+  document.getElementById("demo").innerHTML = "hore";
+}
+<script/>
